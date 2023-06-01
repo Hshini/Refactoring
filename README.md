@@ -11,6 +11,7 @@ N/A
 ## Usage
 
 This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px
+ ![Refactoring](./assets/images/screenshot.png)
 
 ## Credits
 
